@@ -43,7 +43,7 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/harsh-joshi-0aaa52289/">
+  <a href="https://linkedin.com/in/harsh-joshi-0aaa52289">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:harsh990921992@gmail.com">
