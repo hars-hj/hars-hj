@@ -34,25 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Competitive Programming
-- Strong foundation in Data Structures & Algorithms  
-- Focus on optimization & time complexity  
-- Regular problem-solving practice  
-
----
-
 ### 🎯 Current Goals
 - Master advanced DSA  
 - Build scalable backend architectures  
@@ -62,16 +43,11 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/harsh-joshi-0aaa52289/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:harsh990921992@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
----
-
-<p align="center">
-  ⚡ “Write efficient algorithms. Build scalable systems. Keep improving.”
-</p>
